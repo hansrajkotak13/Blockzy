@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blockzy - Open Source Learning</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background-color: #f4f4f9; }
+        h1 { color: #2c3e50; }
+        .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Welcome to Blockzy Learning Hub</h1>
+        <p>Free and open-source coding resources for students and beginner developers.</p>
+        <ul>
+            <li>Python Basics</li>
+            <li>Web Development</li>
+            <li>Practical Exercises</li>
+        </ul>
+    </div>
+</body>
+</html>
